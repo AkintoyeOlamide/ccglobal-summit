@@ -212,9 +212,13 @@ body {
     position: relative;
 }
 
+.scd img {
+    height: 100px;
+}
+
 .article-elements-img {
     position: absolute;
-    height: 150px;
+    height: 10px;
     width: 120px;
     z-index: 1;
     left: 18px;
@@ -626,9 +630,12 @@ tr {
     display: flex;
     flex-direction: column;
     margin-top: 50px;
-    border: 2px solid #555555;
+    border: 2px solid #adadad;
+    border-top: 5px solid#272a31;
+    border-left: 5px solid#272a31;
+    border-right: 5px solid#272a31;
     align-items: center;
-    padding: 10px 100px;
+    padding: 10px 30px;
 }
 
 .breakfast-checkins {
@@ -639,6 +646,7 @@ tr {
     font-weight: 900;
     font-size: 13px;
     padding-top: 5px;
+    color: #ec5242;
 }
 
 .breakfast-checkins p,
@@ -651,5 +659,30 @@ label {
 }
 
 .breakfast {
-    background-color: #d6d6d6;
+    color: #272a31;
+
+}
+
+.menu3 {
+    display: flex;
+    justify-content: center;
+}
+
+.menu-sumit {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    background-color: #ec5242;
+    justify-content: center;
+    display: inline-block;
+    margin: 50px 600px;
+}
+
+.menu-sumit h3 {
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 5px 10px;
+    border-radius: 50px;
+    border: 1px solid #ec5242;
 }
