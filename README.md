@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[CC glbal summit 2015-Clone](https://rawcdn.githack.com/AkintoyeOlamide/ccglobal-summit/8e8982d23e5017ba3b80b7de6347f19436d780e4/index.html)
+[CC glbal summit 2015-Clone](https://rawcdn.githack.com/AkintoyeOlamide/ccglobal-summit/cac1d7ce0c959ea377f8e9fbefb0763cf945b946/index.html)
 
 ## Authors
 
