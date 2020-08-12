@@ -13,6 +13,7 @@
 ## Live Demo
 
 [CC global summit 2015-Clone](https://rawcdn.githack.com/AkintoyeOlamide/ccglobal-summit/b64f70c53f308ca30abffe45a1bb35eb3d8729dd/index.html)
+[Link to project to duplicate](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 ## Authors
 
