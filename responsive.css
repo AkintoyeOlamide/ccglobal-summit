@@ -1,83 +1,81 @@
 @media (max-width: 768px) {
     .menu-bar {
-        display: block;
-        width: 100%;
+      display: block;
+      width: 100%;
     }
 
     .menu-bar img {
-        width: 7%;
-        line-height: 2em;
-        float: left;
-        margin-left: 5%;
-        margin-top: 2.5%;
+      width: 7%;
+      line-height: 2em;
+      float: left;
+      margin-left: 5%;
+      margin-top: 2.5%;
     }
 
     .nav1-ul li {
-        display: none;
+      display: none;
     }
 
     .nav2-second-items-ul li {
-        display: none;
+      display: none;
     }
 
     .nav2-first-items img {
-        display: none;
+      display: none;
     }
 
     .header3 {
-        margin-top: -5%;
+      margin-top: -5%;
     }
 
 
     .header3-first h3 {
-        color: #f55f4e;
-        font-weight: 700;
-        padding-bottom: 10px;
-        /* padding-top: 20px; */
-        font-family: cocogoose;
-        width: 100%;
-        /* display: block; */
-        margin-top: 10%;
-        float: left;
+      color: #f55f4e;
+      font-weight: 700;
+      padding-bottom: 10px;
+      font-family: cocogoose;
+      width: 100%;
+      margin-top: 10%;
+      float: left;
     }
 
     .header3-first h1 {
-        font-size: 50px;
-        font-weight: 900;
-        color: #f55f4e;
-        font-family: cocogoose;
-        width: 100%;
-        display: block;
+      font-size: 50px;
+      font-weight: 900;
+      color: #f55f4e;
+      font-family: cocogoose;
+      width: 100%;
+      display: block;
     }
 
     .header3-first p {
-        background-color: transparent;
-        color: #272a31;
-        font-weight: 200;
-        border: 1px solid #fff;
-        display: inline-block;
+      background-color: transparent;
+      color: #272a31;
+      font-weight: 200;
+      border: 1px solid #fff;
+      display: inline-block;
     }
 
     .header3-first h2 {
-        font-weight: 600;
-        font-size: 30px;
-        color: #272a31;
+      font-weight: 600;
+      font-size: 30px;
+      color: #272a31;
     }
 
     .article2-articles {
-        grid-template-columns: 1fr;
+      grid-template-columns: 1fr;
     }
 
     .first-article {
-        width: 100%;
-        display: flex;
-        flex-direction: column;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
     }
 
     .first-article .first-article-1 {
-        width: 100%;
-        display: flex;
-        flex-direction: row;
+      width: 100%;
+      display: flex;
+      flex-direction: row;
         justify-content: space-around;
     }
 
