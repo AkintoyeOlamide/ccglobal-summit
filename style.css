@@ -3,6 +3,10 @@ body {
     font-size: 17px;
 }
 
+.menu-bar{
+    display: none;
+}
+
 .nav1-ul li {
     padding-right: 20px;
 }
@@ -218,7 +222,7 @@ body {
 
 .article-elements-img {
     position: absolute;
-    height: 100px;
+    height: auto;
     width: 120px;
     z-index: 1;
     left: 18px;
