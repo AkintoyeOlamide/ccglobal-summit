@@ -224,7 +224,7 @@ body {
 
 .article-elements-img {
     position: absolute;
-    height: auto;
+    height: 100%;
     width: 120px;
     z-index: 1;
     left: 18px;
