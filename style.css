@@ -382,7 +382,7 @@ footer {
   text-align: center;
 }
 
-.middle-header h2 {
+.middle-header h1 {
   font-size: 80px;
   font-family: cocogoose, Arial, Helvetica, sans-serif;
 }
@@ -508,8 +508,8 @@ footer {
   height: 2px;
   width: 10%;
   background-color: #e96658;
-  top: 30px;
-  left: 70px;
+  top: 50px;
+  left: 100px;
 }
 
 .step1 {

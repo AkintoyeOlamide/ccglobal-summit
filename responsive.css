@@ -106,6 +106,12 @@
     margin-left: 10px;
   }
 
+  .tickets-responsive p {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+  }
+
   .middle-header p {
     background-color: #fff;
     display: inline-block;
@@ -212,6 +218,7 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
+    align-items: center;
   }
 
   .profiles2-one {
@@ -221,11 +228,88 @@
     margin-top: 10%;
   }
 
+  .tickets-table {
+    display: none;
+  }
+
   .profiles2-one-text {
     position: absolute;
     top: 50px;
     left: 90px;
     text-align: center;
     color: #fff;
+  }
+
+  /* tickets page */
+
+  .main1-first-tickets {
+    display: none;
+  }
+
+  .step1 {
+    display: none;
+    margin-top: 50px;
+    border: 1px solid #868686;
+    border-radius: 30px;
+    padding: 5px 5px 0 5px;
+  }
+
+  .tickets2 {
+    display: none;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  .breakfast-checkins {
+    display: none;
+  }
+
+  .menu-sumit {
+    display: none;
+  }
+
+  .tickets-responsive {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .tickets-responsive h1 {
+    color: #fff;
+    background-color: #ec5242;
+    border-radius: 40px;
+    padding: 3px 50px;
+    font-size: 35px;
+    font-family: cursive;
+  }
+
+  .tickets-responsive3 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #868686;
+    border-radius: 30px;
+    padding-top: 10px;
+  }
+
+  .responsive2 {
+    margin-top: 50px;
+    padding: 0 90px;
+  }
+
+  .radio {
+    height: 30px;
+  }
+
+  .tickets-responsive img {
+    height: 25px;
+  }
+}
+
+@media (max-width: 769px) {
+  .tickets-responsive {
+    display: none;
   }
 }
