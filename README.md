@@ -1,10 +1,11 @@
 # cc global summit
 
-> Clone of CC global summit, a conference held in korea in 2015
+> Clone of CC global summit, a conference held in korea in 2015.
 
-![screenshot](/img/screenshot1.png)
-![screenshot](/img/screenshot2.png)
-![screenshot](/img/screenshot3.png)
+![screenshot] <img src="img/screenshot1.png">
+![screenshot] <img src="img/screenshot2.png">
+![screenshot] <img src="img/screenshot3.png">
+
 
 
 > This project is based on an online conference in korea. Design is followed from this website https://www.behance.net/gallery/29845175/CC-Global-Summit-2015 , I changed somethings about the webpage especially in the ticket page.
