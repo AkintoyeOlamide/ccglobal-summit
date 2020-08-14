@@ -25,7 +25,7 @@
 
 ## Live Demo
 
-[Live Demo Link for search-page.html](https://rawcdn.githack.com/AkintoyeOlamide/ccglobal-summit/3e2e5945cbdede70bc8eb734ec57351519f539e5/index.html)
+[Live Demo Link for full page.html](https://rawcdn.githack.com/AkintoyeOlamide/ccglobal-summit/3e2e5945cbdede70bc8eb734ec57351519f539e5/index.html)
 
 
 
