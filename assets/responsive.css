@@ -85,6 +85,22 @@
     display: block;
   }
 
+  .main2-first{
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+
+  .border-bottom-main2 {
+    position: absolute;
+    height: 3px;
+    width: 10%;
+    background-color: #ec5242;
+    top: 50px;
+    left: 230px;
+  }
+
+
   .first-article .first-article-1 h4 {
     width: 10%;
     margin-left: 2.5%;
@@ -203,7 +219,7 @@
     position: relative;
     display: block;
     width: 100%;
-    justify-content: center;
+    align-items: center;
     float: left;
   }
 
@@ -305,11 +321,5 @@
 
   .tickets-responsive img {
     height: 25px;
-  }
-}
-
-@media (max-width: 769px) {
-  .tickets-responsive {
-    display: none;
   }
 }
