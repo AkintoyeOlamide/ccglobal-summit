@@ -514,14 +514,8 @@ footer {
   align-items: center;
   justify-items: center;
   background-color: #ec5242;
-  border-radius: 30px;
   justify-content: center;
   margin: 50px 600px;
-}
-
-.menu-sumit:hover {
-  cursor: pointer;
-  color: #555;
 }
 
 .menu-bar {
