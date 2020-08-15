@@ -16,6 +16,10 @@
     display: none;
   }
 
+  .menu3 {
+    display: none;
+  }
+
   .nav2-second-items-ul li {
     display: none;
   }
@@ -99,7 +103,7 @@
     top: 50px;
     left: 230px;
   }
-  
+
   .first-article .first-article-1 h4 {
     width: 10%;
     margin-left: 2.5%;
@@ -188,7 +192,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
-    align-items: center;
+    align-items: flex-start;
     padding: 20px;
     margin-top: -6%;
   }
@@ -281,6 +285,10 @@
     display: none;
   }
 
+  .breakfast {
+    display: none;
+  }
+
   .menu-sumit {
     display: none;
   }
@@ -309,6 +317,10 @@
     padding-top: 10px;
   }
 
+  .tickets-responsive img {
+    height: 25px;
+  }
+
   .responsive2 {
     margin-top: 50px;
     padding: 0 90px;
@@ -316,9 +328,5 @@
 
   .radio {
     height: 30px;
-  }
-
-  .tickets-responsive img {
-    height: 25px;
   }
 }
