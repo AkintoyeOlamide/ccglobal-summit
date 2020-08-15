@@ -4,7 +4,7 @@
 
 ![screenshot] <img src="img/screencapture-file-C-Users-Hp-Documents-Microverse-full-time-course-ccglobal-Summit-ccglobal-summit-index-html-2020-08-12-04_25_44.png">
 ![screenshot] <img src="img/screencapture-file-C-Users-Hp-Documents-Microverse-full-time-course-ccglobal-Summit-ccglobal-summit-about-html-2020-08-12-04_26_00.png">
-![screenshot] <img src="img/screencapture-file-C-Users-Hp-Documents-Microverse-full-time-course-ccglobal-summit-ticket-html-2020-08-14-02_41_53.png">
+![screenshot] <img src="img/screencapture-file-C-Users-Hp-Documents-Microverse-full-time-course-ccglobal-Summit-ccglobal-summit-ticket-html-2020-08-12-04_26_11.png">
 
 
 
