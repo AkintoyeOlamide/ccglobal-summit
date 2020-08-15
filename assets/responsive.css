@@ -85,7 +85,7 @@
     display: block;
   }
 
-  .main2-first{
+  .main2-first {
     display: flex;
     align-items: center;
     position: relative;
@@ -99,8 +99,7 @@
     top: 50px;
     left: 230px;
   }
-
-
+  
   .first-article .first-article-1 h4 {
     width: 10%;
     margin-left: 2.5%;
